@@ -55,14 +55,14 @@
     color: white;
     grid-column: 2;
     grid-row: 1 / 48;
-    padding-top: 50px;
+    padding-top: 30px;
     line-height: 30px;
     font-size: 26px;
 }
 
 .banner-text{
     color: white;
-    padding-top: 100px;
+    padding-top: 60px;
     grid-column: 2;
     grid-row: 1 / 48;
     padding-right: 25px;
@@ -80,6 +80,8 @@
     grid-row: 3;
     display: grid;
     margin-top: 10px;
+    
+
 }
 
 .slider1{
@@ -145,3 +147,23 @@ h2{
     background: rgb(85, 126, 173);
 }
 
+.banner-img2{
+    padding: 10px 30px;
+    padding-right: 10px;
+    grid-column: 1;
+    grid-row: 1 / 48;
+    width: 90%;
+    height: 90%;
+}
+.auto-1{
+    width: 350px;
+    height: 300px;
+}
+.auto-2{
+    width: 350px;
+    height: 300px;
+}
+.auto-3{
+    width: 350px;
+    height: 300px;
+}
